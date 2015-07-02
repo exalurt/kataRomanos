@@ -1,0 +1,15 @@
+{
+  "name": "KataRomanos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kata números romanos",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/unit/*.test.js"
+  },
+  "author": "Santiago Suárez Díaz",
+  "license": "MIT",
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.2.5"
+  }
+}
